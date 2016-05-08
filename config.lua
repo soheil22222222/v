@@ -1,7 +1,7 @@
 return {
 	bot_api_key = '213474147:AAFmuxumJyuLfTWNfkXoXyjJPHSAfY31w9w,
 	time_offset = 0,
-	admin = ,
+	admin = 192281402
 	channel = '@groupbutler_ch', --channel username with the '@'
 	languages = 'languages.lua',
 	plugins = {
